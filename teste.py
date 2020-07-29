@@ -1,8 +1,9 @@
-<<<<<<< HEAD
+
 print("hello world")
 
 
 "commit test"
-=======
-print("hello world")
->>>>>>> origin/master
+
+variavel1 = int(35)
+print(variavel1)
+
